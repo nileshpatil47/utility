@@ -213,8 +213,9 @@ PLATFORMS
 
 DEPENDENCIES
   activeadmin (~> 1.0.0.pre4)
+  activejob (~> 4.2.4)
   coffee-rails (~> 4.1.0)
-  devise
+  devise (~> 3.5.2)
   jbuilder (~> 2.0)
   jquery-rails
   mysql2 (= 0.3.18)
